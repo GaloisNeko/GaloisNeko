@@ -1,0 +1,8 @@
+I am majoring in Math/CompSci :P. My interest lies on the mathematical properties of computation and the mechanized formalization.
+
+In particular, I am exploring following fields:
+- Mathematical Logic (Set Theory, Model Theory, Proof Theory, and Type theory)
+- Formal Method (Abstract Interpretation and Interactive Proof Assitant)
+- System Security (Fuzzing and Exploitations)
+
+Seeking for a position of industrial intern, research assistant, or Ph.D degree.
